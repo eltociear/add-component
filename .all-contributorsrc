@@ -9,6 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "ygorluiz",
+      "name": "Ygor Luiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3037941?v=4",
+      "profile": "https://github.com/ygorluiz",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
