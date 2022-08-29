@@ -1,14 +1,14 @@
 {
   "name": "add-component",
-  "version": "4.0.1",
+  "version": "0.0.1",
   "description": "CLI for creating new React components",
-  "homepage": "https://github.com/joshwcomeau/add-component",
+  "homepage": "https://github.com/ygorluiz/add-component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshwcomeau/add-component"
+    "url": "https://github.com/ygorluiz/add-component"
   },
   "bugs": {
-    "url": "https://github.com/joshwcomeau/add-component/issues"
+    "url": "https://github.com/ygorluiz/add-component/issues"
   },
   "main": "src/index.js",
   "scripts": {
@@ -31,5 +31,20 @@
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
     "prettier": "1.5.3"
+  },
+  "devDependencies": {
+    "@auto-it/all-contributors": "^10.37.4",
+    "@auto-it/conventional-commits": "^10.37.4",
+    "@auto-it/first-time-contributor": "^10.37.4",
+    "auto": "^10.37.4"
+  },
+  "auto": {
+    "plugins": [
+      "npm",
+      "all-contributors",
+      "conventional-commits",
+      "first-time-contributor",
+      "released"
+    ]
   }
 }
