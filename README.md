@@ -1,5 +1,6 @@
 <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://github.com/joshwcomeau/add-component/blob/master/docs/logo@2x.png?raw=true" width="285" height="285" alt="add-component logo">
