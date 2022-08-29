@@ -1,6 +1,6 @@
 {
   "name": "ccadd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CLI for creating new React components",
   "homepage": "https://github.com/ygorluiz/add-component",
   "repository": {
