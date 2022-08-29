@@ -1,0 +1,35 @@
+{
+  "name": "add-component",
+  "version": "4.0.1",
+  "description": "CLI for creating new React components",
+  "homepage": "https://github.com/joshwcomeau/add-component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshwcomeau/add-component"
+  },
+  "bugs": {
+    "url": "https://github.com/joshwcomeau/add-component/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npm pack && npm link",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "cli",
+    "component",
+    "boilerplate"
+  ],
+  "author": "Ygor Luiz",
+  "license": "MIT",
+  "bin": {
+    "add-component": "./src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "prettier": "1.5.3"
+  }
+}
