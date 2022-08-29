@@ -1,6 +1,6 @@
 {
   "name": "add-component",
-  "version": "0.0.2",
+  "version": "2.5.0",
   "description": "CLI for creating new React components",
   "homepage": "https://github.com/ygorluiz/add-component",
   "repository": {
@@ -9,6 +9,10 @@
   },
   "bugs": {
     "url": "https://github.com/ygorluiz/add-component/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "main": "src/index.js",
   "scripts": {
