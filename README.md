@@ -1,4 +1,7 @@
 <p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://github.com/joshwcomeau/add-component/blob/master/docs/logo@2x.png?raw=true" width="285" height="285" alt="add-component logo">
   <br>
   <a href="https://www.npmjs.org/package/add-component"><img src="https://img.shields.io/npm/v/add-component.svg?style=flat" alt="npm"></a>
@@ -164,3 +167,16 @@ To get started with development:
 - In the folder run `yarn install`
 - Check that command runs `node ../add-component/src/index.js --help`
 - Alternatively you can set up a symlink override by running `npm link` then `add-component --help`. Note: this will override any globally installed version of this package.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
